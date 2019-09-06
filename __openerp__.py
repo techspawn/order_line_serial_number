@@ -36,11 +36,12 @@
 
     'depends': ['base', 'sale', 'purchase'],
     
+    'images': ['static/OrderLineSerialNumber.jpg'],
     
     ],
     'data': [
         # 'security/ir.model.access.csv',
         'templates.xml',
     ],
-    'images': ['static/OrderLineSerialNumber.jpg'],
+    
 }
