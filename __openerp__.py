@@ -42,5 +42,5 @@
         # 'security/ir.model.access.csv',
         'templates.xml',
     ],
-    'images': ['static/description/OrderLineSerialNumber.jpg'],
+    'images': ['images/OrderLineSerialNumber.jpg'],
 }
