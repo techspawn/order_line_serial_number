@@ -36,7 +36,7 @@
 
     'depends': ['base', 'sale', 'purchase'],
     
-    'images': ['static/OrderLineSerialNumber.jpg'],
+    'images': ['static/description/OrderLineSerialNumber.jpg'],
     
     ],
     'data': [
